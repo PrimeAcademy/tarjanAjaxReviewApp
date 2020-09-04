@@ -32,4 +32,12 @@ Phase 2 - front end interface
 
 - set up basic interface for adding an item to inventory
 - capture click event when add item button is clicked
-- retrieve user user input and put in an object 
+- retrieve user input and put in an object 
+
+Phase 3 - server handshake and first POST
+---
+
+- add AJAX call to our button click
+- add a POST route to server
+- check that the data is getting to server correctly
+- if so, push object into an array on server
